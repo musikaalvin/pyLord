@@ -1,7 +1,0 @@
-sdcard
-evil.txt
-kentsoft
-msf
-sdcard/
-sdcard/msf/
-index
