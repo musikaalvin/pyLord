@@ -1,8 +1,3 @@
-#export TOGETHER_API_KEY="6943c864d1a16663ced832bbb47fe485fbb147bc0c252336df7ab0394f8443b8"
-
-
-
-
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
