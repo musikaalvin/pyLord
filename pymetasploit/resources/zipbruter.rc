@@ -1,0 +1,4 @@
+use postexploit/zipbruter
+set ZIP_FILE evil.zip
+set WORDLIST pass.txt
+run

@@ -1,0 +1,6 @@
+use postexploit/httpbruter
+set URL http://127.0.0.1/login
+set WORDLIST pass.txt
+set USER admin
+set THREADS 10
+run

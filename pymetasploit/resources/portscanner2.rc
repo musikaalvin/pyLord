@@ -1,0 +1,5 @@
+use auxiliary/portscanner
+set RHOSTS 127.0.0.1
+set PORTS 8000-8080
+set THREADS 10
+run

@@ -1,0 +1,4 @@
+use cracker/wifibruter
+set SSID HACKME
+set WORDLIST pass.txt
+run
