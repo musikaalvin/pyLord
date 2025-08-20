@@ -1,4 +1,0 @@
-use payload/backdoor1
-set TARGET 127.0.0.1
-set PORTS 8080
-run

